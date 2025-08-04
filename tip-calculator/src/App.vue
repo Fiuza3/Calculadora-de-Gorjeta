@@ -7,5 +7,5 @@
 </template>
 
 <script setup>
-import TipCalculator from './components/TipCalculator.vue'
+import TipCalculator from './components/CalculadoraDeGorjeta.vue'
 </script>

@@ -1,5 +1,6 @@
 <template>
   <v-container class="mt-10" max-width="500px">
+    <v-card-title class="text-h5">Calculadora de Gorjeta</v-card-title>
     <v-card class="pa-5" elevation="6">
       <v-text-field
         v-model="valorConta"
